@@ -1,1 +1,1 @@
-I like physics, math, and computer science. [Website](https://will-lancer.github.io).
+I like physics, math, and AI. [Website](https://will-lancer.github.io).
